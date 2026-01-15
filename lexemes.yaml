@@ -28415,7 +28415,7 @@
     strongs: 2504
     gk: 2743
     dodson-pos: P
-    gloss: I also, I too
+    gloss: καί + (nom.) ἐγώ or (dat.) ἐμοί; I also, I too
     mounce-morphcat: a-5
 καθά:
     pos: C/ADV
@@ -28888,7 +28888,7 @@
     strongs: 2546
     gk: 2795
     dodson-pos: ADV-K
-    gloss: and there, and yonder
+    gloss: καί + ἐκεῖ; and there, there also
     mounce-morphcat: adverb
 κἀκεῖθεν:
     pos: C/ADV-K
@@ -28899,7 +28899,7 @@
     strongs: 2547
     gk: 2796
     dodson-pos: ADV-K
-    gloss: and thence, and from there
+    gloss: καί + ἐκεῖθεν; and from there, from there also
     mounce-morphcat: adverb
 κἀκεῖνος:
     pos: RD
@@ -28910,7 +28910,7 @@
     strongs: 2548
     gk: 2797
     dodson-pos: D
-    gloss: and he, she, it, and that
+    gloss: καί + ἐκεῖνος; and that one, that one also
     mounce-morphcat: a-1a(2b)
 κακία:
     pos: N
@@ -29255,7 +29255,7 @@
     strongs: 2579
     gk: 2829
     dodson-pos: COND-K
-    gloss: and if, even if
+    gloss: καί + ἐάν; and if, even if
     mounce-morphcat: particle
 Κανά:
     pos: N
