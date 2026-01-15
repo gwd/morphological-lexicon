@@ -3540,7 +3540,7 @@
     strongs: 303
     gk: 324
     dodson-pos: PREP
-    gloss: and, apiece, by, each, every, in, through
+    gloss: (gen.) upon, (dat.) upon, (acc.) up, throughout, each
     mounce-morphcat: prep
 ἀναβαθμός:
     pos: N
@@ -4945,7 +4945,7 @@
     strongs: 427
     gk: 459
     dodson-pos: PREP
-    gloss: without, without the cooperation or knowledge of
+    gloss: (gen.) without
     mounce-morphcat: prep
 ἀνεύθετος:
     pos: A
@@ -5444,7 +5444,7 @@
     strongs: 473
     gk: 505
     dodson-pos: PREP
-    gloss: instead of, for
+    gloss: (gen.) instead of, in return for
     mounce-morphcat: prep
 ἀντιβάλλω:
     pos: V
@@ -6412,7 +6412,7 @@
     strongs: 561
     gk: 595
     dodson-pos: ADV
-    gloss: over against, opposite, in view of, in the presence of
+    gloss: (gen.) opposite, in the presence of
     mounce-morphcat: prep
 ἀπέραντος:
     pos: A
@@ -6550,7 +6550,7 @@
     strongs: 575
     gk: 608
     dodson-pos: PREP
-    gloss: from, away from
+    gloss: (gen.) from, away from
     mounce-morphcat: prep
 ἀποβαίνω:
     pos: V
@@ -9295,7 +9295,7 @@
     strongs: 817
     gk: 868
     dodson-pos: PREP
-    gloss: apart from, without
+    gloss: (gen.) without, apart from
     mounce-morphcat: prep
 ἀτιμάζω:
     pos: V
@@ -14014,7 +14014,7 @@
     strongs: 1223
     gk: 1328
     dodson-pos: PREP
-    gloss: through, on account of
+    gloss: (gen.) through, (acc.) on account of
     mounce-morphcat: prep
 διαβαίνω:
     pos: V
@@ -17238,7 +17238,7 @@
     danker-entry: εἵνεκεν
     mounce-headword: εἵνεκεν
     gk: 1641
-    gloss: on account of, for the sake of
+    gloss: (gen.) on account of, for the sake of
     mounce-morphcat: prep
 εἴπερ:
     pos: C/COND
@@ -17318,7 +17318,7 @@
     strongs: 1519
     gk: 1650
     dodson-pos: PREP
-    gloss: into, in, among, till, for
+    gloss: (acc.) into, to, for
     mounce-morphcat: prep
 εἷς:
     pos: A
@@ -17490,13 +17490,13 @@
 ἐκ:
     pos: P
     bdag-headword: ἐκ
-    danker-entry: ἐκ, before vowels ἐξ, prep. w. gen., introducing various aspects of separation or derivation (opp. εἰς, which is goal- oriented) – a. relating in general to a matter of origin; resources of English encourage a variety of glosses – α. of place or thing, from, out of (the latter gloss usually preferred where focus is on movement or removal) Mt 2:6, 15; 3:9; 7:4; 8:28 (explicitly opp. εἰς); 17:5; 26:27 (of taking a drink out of a cup); in related mode 1 Cor 9:13 (ἐκ τοῦ ἱεροῦ ἐσθίειν =eat of things derived from the temple); of material source Mt 27:29 (a wreath
+    danker-entry: ἐκ, ἐξ
     dodson-entry: ἐκ, ἐξ
     mounce-headword: ἐκ
     strongs: 1537
     gk: 1666
     dodson-pos: PREP
-    gloss: from out, out from among, from
+    gloss: (gen.) from, out of
     mounce-morphcat: prep
 ἕκαστος:
     pos: A
@@ -19584,7 +19584,7 @@
     strongs: 1722
     gk: 1877
     dodson-pos: PREP
-    gloss: in, on, among
+    gloss: (dat.) in, on, among
     mounce-morphcat: prep
 ἐναγκαλίζομαι:
     pos: V
@@ -19618,7 +19618,7 @@
     strongs: 1725
     gk: 1882
     dodson-pos: ADV
-    gloss: before, in the presence of
+    gloss: (gen.) before, in the presence of
     mounce-morphcat: prep
 ἐναντίον:
     pos: P/ADV
@@ -19629,7 +19629,7 @@
     strongs: 1726
     gk: 1883
     dodson-pos: ADV
-    gloss: before, in the presence of, in the eyes of
+    gloss: (gen.) before, in the presence of
     mounce-morphcat: prep
 ἐναντίος:
     pos: A
@@ -19925,7 +19925,7 @@
     danker-entry: ἕνεκα, ἕνεκεν, and s. entries s. v. εἵνεκεν
     mounce-headword: ἕνεκα
     gk: 1914
-    gloss: on account of, for the sake of
+    gloss: (gen.) on account of, for the sake of
     mounce-morphcat: prep
 ἕνεκεν:
     pos: P
@@ -19935,7 +19935,7 @@
     strongs: 1752
     gk: 1915
     dodson-pos: PREP
-    gloss: for the sake of, on account of, wherefore
+    gloss: (gen.) for the sake of, on account of
     mounce-morphcat: prep
 ἐνενήκοντα:
     pos: A
@@ -20335,7 +20335,7 @@
     strongs: 1787
     gk: 1955
     dodson-pos: ADV
-    gloss: within, inside, the inside
+    gloss: (gen.) within, inside
     mounce-morphcat: prep
 ἐντρέπω:
     pos: V
@@ -20470,7 +20470,7 @@
     strongs: 1799
     gk: 1967
     dodson-pos: ADV
-    gloss: before the face of, in the presence of
+    gloss: (gen.) before, in the presence of
     mounce-morphcat: prep
 Ἐνώς:
     pos: N
@@ -21695,7 +21695,7 @@
     strongs: 1909
     gk: 2093
     dodson-pos: PREP
-    gloss: on, to, against, on the basis of, at
+    gloss: (gen.) on, in the time of, (dat.) on, at, (acc.) to, against, over
     mounce-morphcat: prep
 ἐπιβαίνω:
     pos: V
@@ -23562,7 +23562,7 @@
     strongs: 2080
     gk: 2276
     dodson-pos: ADV
-    gloss: within, inside
+    gloss: (gen.) within, into
     mounce-morphcat: prep
 ἔσωθεν:
     pos: D
@@ -29440,7 +29440,7 @@
     strongs: 2596
     gk: 2848
     dodson-pos: PREP
-    gloss: down from, against, according to, throughout, during
+    gloss: (gen.) down from, against, (acc.) according to, throughout, during
     mounce-morphcat: prep
 καταβαίνω:
     pos: V
@@ -36647,7 +36647,7 @@
     strongs: 3326
     gk: 3552
     dodson-pos: PREP
-    gloss: with, after
+    gloss: (gen.) with, among, (acc.) after
     mounce-morphcat: prep
 μεταβαίνω:
     pos: V
@@ -37035,7 +37035,7 @@
     strongs: 3360
     gk: [3588, 3589]
     dodson-pos: ADV
-    gloss: as far as, until
+    gloss: (gen.) as far as, until
     mounce-morphcat: prep
 μή:
     pos: D/PRT-N
@@ -42451,7 +42451,7 @@
     strongs: 3844
     gk: 4123
     dodson-pos: PREP
-    gloss: from, in the presence of
+    gloss: (gen.) from beside, (dat.) beside, at, (acc.) alongside, contrary to
     mounce-morphcat: prep
 παραβαίνω:
     pos: V
@@ -44365,7 +44365,7 @@
     strongs: 4012
     gk: 4309
     dodson-pos: PREP
-    gloss: about, concerning, around
+    gloss: (gen.) about, concerning, (dat.) around, (acc.) around, about
     mounce-morphcat: prep
 περιάγω:
     pos: V
@@ -47095,7 +47095,7 @@
     strongs: 4253
     gk: 4574
     dodson-pos: PREP
-    gloss: before
+    gloss: (gen.) before, in front of
     mounce-morphcat: prep
 προάγω:
     pos: V
@@ -47767,7 +47767,7 @@
     strongs: 4314
     gk: 4639
     dodson-pos: PREP
-    gloss: to, towards, with
+    gloss: (gen.) from, in behalf of, (dat.) at, near, (acc.) to, towards, against
     mounce-morphcat: prep
 προσάββατον:
     pos: N
@@ -53972,7 +53972,7 @@
     strongs: 4862
     gk: 5250
     dodson-pos: PREP
-    gloss: with
+    gloss: (dat.) with
     mounce-morphcat: prep
 συνάγω:
     pos: V
@@ -57961,7 +57961,7 @@
     strongs: 5228
     gk: 5642
     dodson-pos: PREP
-    gloss: in behalf of, above
+    gloss: (gen.) in behalf of, (acc.) above
     mounce-morphcat: prep
 ὑπεραίρομαι:
     pos: V
@@ -58323,7 +58323,7 @@
     strongs: 5259
     gk: 5679
     dodson-pos: PREP
-    gloss: by, under, about
+    gloss: (gen.) by, (dat.) under, at, (acc.) under
     mounce-morphcat: prep
 ὑποβάλλω:
     pos: V
@@ -60909,7 +60909,7 @@
     strongs: 5484
     gk: 5920
     dodson-pos: ADV
-    gloss: on account of
+    gloss: (gen.) on account of, for the sake of
     mounce-morphcat: prep
 χάρις:
     pos: N
